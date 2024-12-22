@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Currency Rates App</string>
+    <string name="hint_filter">Enter currency name</string>
+</resources>
